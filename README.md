@@ -1,7 +1,7 @@
 # Fixdates
 
 This small ruby script recursively loops through a directory of images and
-adjusts the exif, modified and accessed dates.
+adjusts the EXIF date created, and the file's modified and accessed dates.
 
 Useful if you forgot to set your digital camera's time before taking pictures.
 
